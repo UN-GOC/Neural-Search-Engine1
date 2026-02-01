@@ -1,4 +1,4 @@
-export { auth as middleware } from "@/auth";
+export { auth as middleware } from "./auth";
 
 export const config = {
     // Protects all pages except static assets and images

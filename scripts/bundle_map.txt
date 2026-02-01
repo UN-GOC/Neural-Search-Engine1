@@ -1,2 +1,0 @@
-[Files] 
-"C:\Users\mswuk\OneDrive\Desktop\neuralengine\dist\NeuralScholarEngine 0.1.0.appx" "NeuralScholarEngine.appx" 

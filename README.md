@@ -17,6 +17,19 @@ Neural Scholar Engine bridges the gap between traditional search engines and AI 
 *   **Multimodal Search**: contextual understanding of images for solving problems or answering visual queries.
 *   **Memory & Context**: Intelligent query rewriting to understand follow-up questions (e.g., "Show me more details about him").
 
+## 📸 Screenshots
+
+<div align="center">
+  <img src="imagesgit/Screenshot%202026-02-01%20135122.png" width="45%" />
+  <img src="imagesgit/Screenshot%202026-02-01%20135201.png" width="45%" />
+  <img src="imagesgit/Screenshot%202026-02-01%20135220.png" width="45%" />
+  <img src="imagesgit/Screenshot%202026-02-01%20135336.png" width="45%" />
+  <img src="imagesgit/Screenshot%202026-02-01%20135411.png" width="45%" />
+  <img src="imagesgit/Screenshot%202026-02-01%20135602.png" width="45%" />
+  <img src="imagesgit/Screenshot%202026-02-01%20135653.png" width="45%" />
+  <img src="imagesgit/Screenshot%202026-02-01%20135716.png" width="45%" />
+</div>
+
 ---
 
 ## 🛠️ Tech Stack

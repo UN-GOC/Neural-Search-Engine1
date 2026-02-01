@@ -4,7 +4,7 @@ import { writeFile } from "fs/promises";
 import path from "path";
 import os from "os";
 
-import { auth } from "@/auth";
+import { auth } from "../../../auth";
 import { checkLimit, incrementUsage } from "@/lib/rate-limit";
 
 export const dynamic = 'force-dynamic';
