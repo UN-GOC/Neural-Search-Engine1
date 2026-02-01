@@ -100,7 +100,7 @@ GOOGLE_SEARCH_CX_ID_ISC_PHYSICS=your-physics-cx-id
 GOOGLE_SEARCH_CX_ID_ISC_COMPUTER=your-computer-cx-id
 GOOGLE_SEARCH_CX_ID_ISC_ACCOUNTS=your-accounts-cx-id
 
-# Authentication (NextAuth)
+# Optional
 AUTH_SECRET=your-random-secret-key
 AUTH_GOOGLE_ID=your-google-oauth-client-id
 AUTH_GOOGLE_SECRET=your-google-oauth-client-secret
