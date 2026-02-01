@@ -1,6 +1,13 @@
 # Neural Scholar Engine
 
+
 **Neural Scholar Engine** is an advanced, AI-powered research and search interface designed to provide deep, accurate, and academically rigorous answers. Built with **Next.js** and powered by **Google's Gemini 3 Pro/Flash**, it goes beyond simple search to offer a specialized research assistant for students and professionals.
+
+## 🌐 Live Demo
+
+Check out the live application running on Google Cloud Run:
+**[neuralsearchengine.app](https://neuralengine-938736572702.us-central1.run.app)**
+
 
 ## 🚀 About The Project
 
